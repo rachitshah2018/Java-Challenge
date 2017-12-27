@@ -1,6 +1,6 @@
-# Java-Challenge - The Asset Management Digital Challenge
+## Java-Challenge - The Asset Management Digital Challenge
 
-## This repository is created for solving Asset Management Digital Challenge. 
+### This repository is created for solving Asset Management Digital Challenge. 
 
 ### Improvement needed to make the application production and support ready :
 
