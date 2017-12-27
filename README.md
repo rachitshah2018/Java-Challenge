@@ -2,7 +2,7 @@
 
 ### JSON Request for http://localhost:18080/v1/accounts/transferMoney
 
-{"accountFromId":"Id-123","accountToId":"Id-456","tranferAmount":1000}
+{"accountFromId":"Id-123","accountToId":"Id-456","transferAmount":1000}
 
 ### Improvement needed to make the application production and support ready :
 
