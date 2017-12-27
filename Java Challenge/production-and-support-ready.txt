@@ -1,15 +1,13 @@
-# Java-Challenge - The Asset Management Digital Challenge
+# The Asset Management Digital Challenge
 
-## This repository is created for solving Asset Management Digital Challenge. 
-
-### Improvement needed to make the application production and support ready :
+Improvement needed to make the application production and support ready :
 
 1) Generate and return the transaction Id to make the transactions trackable for future references.
 
 2) Use Spring Transactions and JPA with Hibernate to manage accounts and transactions in database instead of in-memory system. This will take care of tranasction 
    roll back in case of any failure.
    
-3) Enhance the JUnit test cases to cover more multithreading scenario for concurrrent transaction like :
+3) Enhance the JUnit test case to cover the multithreading scenario for concurrrent transaction like :
    a) If Account A is transferring the amount to Account B and at the same time account B tries to transfer money to account A.
    b) Performance and stress test cases to test the concurrency.
    
@@ -17,7 +15,6 @@
 
 5) Internationalization of message notifications.
 
-### Optional Improvement :
+Optional Improvement :
 
 1) EntityManagers Optimistic locking could be considered for this type of scenarios. However, further analysis has to be done before incorporating it. 
-
