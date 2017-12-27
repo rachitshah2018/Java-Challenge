@@ -1,5 +1,9 @@
 ## Java-Challenge - The Asset Management Digital Challenge
 
+### JSON Request for http://localhost:18080/v1/accounts/transferMoney
+
+{"accountFromId":"Id-123","accountToId":"Id-456","tranferAmount":1000}
+
 ### Improvement needed to make the application production and support ready :
 
 1) Generate and return the transaction Id to make the transactions trackable for future references.
