@@ -1,7 +1,5 @@
 ## Java-Challenge - The Asset Management Digital Challenge
 
-### This repository is created for solving Asset Management Digital Challenge. 
-
 ### Improvement needed to make the application production and support ready :
 
 1) Generate and return the transaction Id to make the transactions trackable for future references.
